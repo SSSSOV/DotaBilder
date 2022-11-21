@@ -1,0 +1,12 @@
+C:\Users\sakun\source\repos\DotaBilder\bin\Debug\DotaBilder.exe.config
+C:\Users\sakun\source\repos\DotaBilder\bin\Debug\DotaBilder.exe
+C:\Users\sakun\source\repos\DotaBilder\bin\Debug\DotaBilder.pdb
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.csproj.AssemblyReference.cache
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.Form1.resources
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.Properties.Resources.resources
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.csproj.GenerateResource.cache
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.csproj.CoreCompileInputs.cache
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.exe
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.pdb
+C:\Users\sakun\source\repos\DotaBilder\obj\Debug\DotaBilder.Items.resources
